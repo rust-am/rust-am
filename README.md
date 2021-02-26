@@ -4,7 +4,7 @@
 
 [![Twitter rust-am](https://img.shields.io/twitter/follow/russell_ocean?label=Follow)](https://twitter.com/intent/follow?screen_name=russell_ocean)
 [![Linkedin: rust-am](https://img.shields.io/badge/-rustam-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rust-am/)](https://www.linkedin.com/in/rust-am/)
-[![Telegram: spicycat](https://img.shields.io/badge/-spicycat-blue?style=flat&logo=elegram&logoColor=white&link=https://t.me/spicycat/)](https://t.me/spicycat/)
+[![Telegram: spicycat](https://img.shields.io/badge/-spicycat-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/spicycat/)](https://t.me/spicycat/)
 ![](https://visitor-badge.glitch.me/badge?page_id=rust-am.rust-am)
 <!-- [![GitHub rust-am](https://img.shields.io/github/followers/rust-am?label=follow&style=social)](https://github.com/rust-am) -->
 
