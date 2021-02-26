@@ -1,4 +1,4 @@
-<h2> Hi👋 I'm Rustam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h2>
+<h2> Hi👋 I'm Rustam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
 <p><em>Ruby/Ruby on Rails developer <img src="https://media.giphy.com/media/U71g2lkZZPPPvZOKcU/source.gif" width="30"> 
 </em></p>
 
@@ -10,13 +10,13 @@
 
 <h2> 🔧 Technologies & Tools </h2>
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=0076D6)
-![](https://img.shields.io/badge/Editors-VS_Code_|_Ruby_Mine-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=0076D6)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat-square&logo=ruby&logoColor=white&color=0076D6)
-![](https://img.shields.io/badge/Framework-Rails-informational?style=flat-square&logo=rubyonrails&logoColor=white&color=0076D6)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=0076D6)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat-square&logo=postgresql&logoColor=white&color=0076D6)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=0076D6)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0076D6)
+![](https://img.shields.io/badge/Editors-VS_Code_|_RubyMine-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0076D6)
+![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=0076D6)
+![](https://img.shields.io/badge/Framework-Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=0076D6)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0076D6)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=0076D6)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0076D6)
 
 <h2> &#x1f4c8; GitHub Stats </h2>
 
