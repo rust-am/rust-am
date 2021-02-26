@@ -5,7 +5,7 @@
 [![Twitter rust-am](https://img.shields.io/twitter/follow/russell_ocean?label=Follow)](https://twitter.com/intent/follow?screen_name=russell_ocean)
 [![Linkedin: rust-am](https://img.shields.io/badge/-rustam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rust-am/)](https://www.linkedin.com/in/rust-am/)
 [![GitHub rust-am](https://img.shields.io/github/followers/rust-am?label=follow&style=social)](https://github.com/rust-am)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![](https://visitor-badge.glitch.me/badge?page_id=rust-am.rust-am)
 
 <h2> 🔧 Technologies & Tools </h2>
 
