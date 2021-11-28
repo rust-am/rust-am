@@ -1,5 +1,5 @@
-<h2> Hi👋 I'm Rustam </h2>
-<p><em>Ruby/Ruby on Rails developer <img src="https://media.giphy.com/media/4vzPXQbOxaOr1ZavUt/giphy.gif" width="40"> 
+<h2> Hi👋 </h2>
+<p><em>Ruby/Ruby on Rails developer <img src="https://media.giphy.com/media/cwGeejcUGjQ7htzxVM/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter rust-am](https://img.shields.io/twitter/follow/russell_ocean?label=Follow)](https://twitter.com/intent/follow?screen_name=russell_ocean)
