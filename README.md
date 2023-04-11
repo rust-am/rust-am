@@ -1,5 +1,5 @@
 <h2> Hi👋 </h2>
-<p><em>Ruby/Ruby on Rails developer <img src="https://w7.pngwing.com/pngs/782/228/png-transparent-ruby-on-rails-rubygems-amazon-dynamodb-ruby-text-logo-ruby-thumbnail.png" width="30"> 
+<p><em>Ruby/Ruby on Rails developer  
 </em></p>
 
 [![Twitter rust-am](https://img.shields.io/twitter/follow/russell_ocean?label=Follow)](https://twitter.com/intent/follow?screen_name=russell_ocean)
